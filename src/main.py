@@ -35,7 +35,7 @@ settings: dict
 
 def load_settings():
     global settings
-    settings = json.load(open("settings.json", "r"))
+    settings = json.load(open("src/settings.json", "r"))
 
     #fixing settings responses
     def replace_placeholder(setting: str, pattern = r"<[a-z]+_*[a-z]*>"):
