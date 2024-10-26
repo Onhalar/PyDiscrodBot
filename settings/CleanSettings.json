@@ -1,0 +1,28 @@
+{
+    "token": "",
+    "show_info": true,
+    "bot_name": "Soph",
+    "command_prefix": ">",
+    "ignore_command": "(i)",
+    "bot_version": "1.0",
+    "default_replies": {
+        "I love you": "I... I am sorry [user], I am just a basic algorithm... Please, seek help.",
+        "yo": "Waddap [user], my boi",
+        "hello": "Hi, [user], it's great seeing you!",
+        "hi": "Hello, [user], it's great seeing you!",
+        "what are the rules": "The rules are\n- Rule 1: No major cursing or slurs towards another person in any form of chat. This goes for direct messages as well.\n- Rule 2: No spamming.\n- Rule 3: Don't use all caps in every message. \n- Rule 4: No inappropriate chatting or sending inappropriate photos/videos/GIFs. \n- Rule 5: Don't give direct advice if you don't know what you're talking about.\n- Rule 6: Do not trigger bots :)",
+        "fuck you": "hey, fuck you [user]"
+    },
+    "commands": {
+        "test": "status: online",
+        "help": "- For basic reposes just use '<bot_name>' in your messages.\n- For basic commands (basic info only) use '<command_prefix>' at the beginning of your message (help; test; dm help [user_tag]). \n- For super-commands use '<command_prefix><command_prefix>': reserved for admins\n- message will be ignored if it contains '(i)'",
+        "info": "Basic info:\n- Bot name: <bot_name>\n- Version: <bot_version>\n- Bot is operating under an open-source GNU-GPL licence.\n- Author: Onhalar (discord tag)"
+    },
+    "censor_list_enforce": true,
+    "censor_list": [
+        "nigger",
+        "negr",
+        "faggot",
+        "nigga"
+    ]
+}

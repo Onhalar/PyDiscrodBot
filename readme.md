@@ -1,0 +1,1 @@
+Copy CleanSettings into the src directory and rename it to "settings.json" before running
